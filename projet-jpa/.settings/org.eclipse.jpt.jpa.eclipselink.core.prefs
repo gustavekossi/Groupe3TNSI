@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+staticWeaving.LOG_LEVEL=SEVERE
+staticWeaving.PERSISTENCE_INFO=src/META-INF
+staticWeaving.SOURCE=build/classes
+staticWeaving.TARGET=build/classes
