@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ecommerce_gestionProduit">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/ecommerce_gestionProduit/build/classes"/>
+        <property name="ClientProject" value="ecommerce_gestionProduitClient"/>
+        <property name="ClientJARURI" value="ecommerce_gestionProduitClient.jar"/>
+    </wb-module>
+</project-modules>
